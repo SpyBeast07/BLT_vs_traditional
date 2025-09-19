@@ -1,0 +1,9 @@
+__pycache__/
+*.pt
+*.pth
+.ipynb_checkpoints/
+
+.DS_Store
+
+.src/checkpoints/
+.src/checkpoints_baseline/
