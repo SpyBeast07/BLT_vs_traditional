@@ -1,9 +1,19 @@
+# Python compiled files
 __pycache__/
+
+# PyTorch model files
 *.pt
 *.pth
+
+# Jupyter Notebook temporary files
 .ipynb_checkpoints/
 
+# macOS specific files
 .DS_Store
 
-.src/checkpoints/
-.src/checkpoints_baseline/
+# Checkpoint directories (assuming your folder is named 'src')
+src/checkpoints/
+src/checkpoints_baseline/*
+
+# Exception: Keep this specific pre-trained model
+!src/checkpoints_baseline/char_transformer_epoch500.pt
