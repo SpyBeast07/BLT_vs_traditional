@@ -12,8 +12,9 @@ __pycache__/
 .DS_Store
 
 # Checkpoint directories (assuming your folder is named 'src')
-src/checkpoints/
+src/checkpoints/*
 src/checkpoints_baseline/*
 
 # Exception: Keep this specific pre-trained model
+!src/checkpoints/blt_epoch168.pt
 !src/checkpoints_baseline/char_transformer_epoch500.pt
