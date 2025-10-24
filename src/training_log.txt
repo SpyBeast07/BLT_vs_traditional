@@ -2886,3 +2886,649 @@
     ✅ Saved checkpoint: checkpoints/blt_epoch304.pt
 
     {"model_id":"4a695f85e2aa4a9a9852cddc23788c90","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 305/1000 - Train Loss: 2.0631
+
+    {"model_id":"1c1bea66c324440c9df6baecb7fc38bc","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8800, Perplexity: 6.55, Token Acc: 41.44%
+
+    {"model_id":"f3436cc120d043f0901a8d309f79bea9","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 306/1000 - Train Loss: 2.0621
+
+    {"model_id":"35ec00bb1b8f4ca1ae40457b68155691","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8818, Perplexity: 6.57, Token Acc: 41.42%
+    ✅ Saved checkpoint: checkpoints/blt_epoch306.pt
+
+    {"model_id":"9dba701f7db146df9122eb904314ed36","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 307/1000 - Train Loss: 2.0617
+
+    {"model_id":"cdcd34f009ff4bd9970cb062845e7cdd","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8824, Perplexity: 6.57, Token Acc: 41.44%
+
+    {"model_id":"6f414c88dfb54a599da3c69e79e89b5e","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 308/1000 - Train Loss: 2.0617
+
+    {"model_id":"9393c6dc571d4426a3c97a76bcdb984f","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8836, Perplexity: 6.58, Token Acc: 41.39%
+    ✅ Saved checkpoint: checkpoints/blt_epoch308.pt
+
+    {"model_id":"9c3332e90e4644e7a62f366396da8156","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 309/1000 - Train Loss: 2.0606
+
+    {"model_id":"908f040f52c54c6393656f840153a3f8","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8837, Perplexity: 6.58, Token Acc: 41.20%
+
+    {"model_id":"d47e758770794a14aa88d7a6b2952c30","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 310/1000 - Train Loss: 2.0612
+
+    {"model_id":"59a88c16f9f44227906e6b0679b7a4c5","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8834, Perplexity: 6.58, Token Acc: 41.21%
+    ✅ Saved checkpoint: checkpoints/blt_epoch310.pt
+
+    {"model_id":"403fc1816df64a0b9ad3551168a2b9a1","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 311/1000 - Train Loss: 2.0620
+
+    {"model_id":"c10971384e054c758d7dfe2c95d29033","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8845, Perplexity: 6.58, Token Acc: 41.35%
+
+    {"model_id":"faf55da43003430bb1f9b34b294eec3f","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 312/1000 - Train Loss: 2.0573
+
+    {"model_id":"cfb2a321b17f47a8b129ba37ee7bae6e","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8834, Perplexity: 6.58, Token Acc: 41.36%
+    ✅ Saved checkpoint: checkpoints/blt_epoch312.pt
+
+    {"model_id":"c3c101cfa7b44102b5465a8f161761d5","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 313/1000 - Train Loss: 2.0585
+
+    {"model_id":"af15c885dde347b3bc6c73f5c9ece051","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8828, Perplexity: 6.57, Token Acc: 41.43%
+
+    {"model_id":"d4b9800ddc1b46f79838403a1b0ce789","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 314/1000 - Train Loss: 2.0570
+
+    {"model_id":"13ae181f895245a1bfaceae6c3fb1e79","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8830, Perplexity: 6.57, Token Acc: 41.27%
+    ✅ Saved checkpoint: checkpoints/blt_epoch314.pt
+
+    {"model_id":"bd2bc0b046c941afbbc5590a9827675f","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 315/1000 - Train Loss: 2.0582
+
+    {"model_id":"9abfed2c1c4a4a9d9d5fd2926aeebcc3","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8819, Perplexity: 6.57, Token Acc: 41.37%
+
+    {"model_id":"a8b803b2a26b4dec91090ecf145ee7cc","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 316/1000 - Train Loss: 2.0574
+
+    {"model_id":"c01f043dc5284855b8d31667e64d39d6","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8820, Perplexity: 6.57, Token Acc: 41.42%
+    ✅ Saved checkpoint: checkpoints/blt_epoch316.pt
+
+    {"model_id":"e43ecc3012264201babb202ae28a7659","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 317/1000 - Train Loss: 2.0576
+
+    {"model_id":"94a16f22ff454ff98c997ec86c05adb8","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8823, Perplexity: 6.57, Token Acc: 41.35%
+
+    {"model_id":"a54da18eb9484fad9b88f82d91cb1e75","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 318/1000 - Train Loss: 2.0558
+
+    {"model_id":"f7405193bf4d480389635f2245f74ca3","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8812, Perplexity: 6.56, Token Acc: 41.44%
+    ✅ Saved checkpoint: checkpoints/blt_epoch318.pt
+
+    {"model_id":"142d4a863b434384bd04c898f004cb23","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 319/1000 - Train Loss: 2.0564
+
+    {"model_id":"a2999000468344d38f0343558d5ca7eb","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8829, Perplexity: 6.57, Token Acc: 41.36%
+
+    {"model_id":"09f09e2d21f94f388da68560414b815b","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 320/1000 - Train Loss: 2.0563
+
+    {"model_id":"0d730d4579e64b529e5975bd40853f38","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8816, Perplexity: 6.56, Token Acc: 41.45%
+    ✅ Saved checkpoint: checkpoints/blt_epoch320.pt
+
+    {"model_id":"a8eb5a5da5a249ad84d8665e6c59715c","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 321/1000 - Train Loss: 2.0545
+
+    {"model_id":"b0171957b3484101b76bbc4b7b85ff01","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8821, Perplexity: 6.57, Token Acc: 41.47%
+
+    {"model_id":"9b2b8bda52ba40788d332b6a2969db64","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 322/1000 - Train Loss: 2.0555
+
+    {"model_id":"4442ee6aab374eb59848c1baa984ba9f","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8826, Perplexity: 6.57, Token Acc: 41.38%
+    ✅ Saved checkpoint: checkpoints/blt_epoch322.pt
+
+    {"model_id":"c24dd180ea6a4222bb8acd709f21a6c1","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 323/1000 - Train Loss: 2.0551
+
+    {"model_id":"147431c59a3c4402b20f4cfcf27abea2","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8819, Perplexity: 6.57, Token Acc: 41.34%
+
+    {"model_id":"99cbd8abd2a34d48980558e265b59635","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 324/1000 - Train Loss: 2.0535
+
+    {"model_id":"94158d29ea804107a20f96e4f48b0792","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8812, Perplexity: 6.56, Token Acc: 41.42%
+    ✅ Saved checkpoint: checkpoints/blt_epoch324.pt
+
+    {"model_id":"46c6d5a517a04fd29f78ce382c47ba7f","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 325/1000 - Train Loss: 2.0544
+
+    {"model_id":"0570db29f7634af7898d82aaf00bafd6","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8816, Perplexity: 6.56, Token Acc: 41.39%
+
+    {"model_id":"f70cd67bca59433bb3f42ae5c8bb85f4","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 326/1000 - Train Loss: 2.0549
+
+    {"model_id":"bbf3fc1e90c44c7e94d63eadacd3dbf0","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8811, Perplexity: 6.56, Token Acc: 41.41%
+    ✅ Saved checkpoint: checkpoints/blt_epoch326.pt
+
+    {"model_id":"16456843000e4b87a46575e931742b28","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 327/1000 - Train Loss: 2.0555
+
+    {"model_id":"87454dffaf6b4d61967378d5c96adcd3","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8812, Perplexity: 6.56, Token Acc: 41.40%
+
+    {"model_id":"2b6702225183407e98ac3d89c008e93c","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 328/1000 - Train Loss: 2.0540
+
+    {"model_id":"6a1cae47235c4c568cd7e0b0ddf626e8","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8810, Perplexity: 6.56, Token Acc: 41.46%
+    ✅ Saved checkpoint: checkpoints/blt_epoch328.pt
+
+    {"model_id":"f59bd36341f24a14960ff33133ee69e7","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 329/1000 - Train Loss: 2.0551
+
+    {"model_id":"d18fc29c882b444ca14c894ee67c0e36","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8813, Perplexity: 6.56, Token Acc: 41.34%
+
+    {"model_id":"e1f4111267b4422d9917e6320d29b3a4","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 330/1000 - Train Loss: 2.0533
+
+    {"model_id":"86c7b3df2f47400f8a98bcd4e782c82d","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8812, Perplexity: 6.56, Token Acc: 41.40%
+    ✅ Saved checkpoint: checkpoints/blt_epoch330.pt
+
+    {"model_id":"5508bbe8716443df8246f4620763c550","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 331/1000 - Train Loss: 2.0540
+
+    {"model_id":"c32d68ada2ef4cffb2cd73eac2bb88a1","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8812, Perplexity: 6.56, Token Acc: 41.43%
+
+    {"model_id":"2df93fed2ccf45aebaf9ac33d4fb7dc6","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 332/1000 - Train Loss: 2.0545
+
+    {"model_id":"10d787c1667a4b7ea3709686e5b3b116","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8813, Perplexity: 6.56, Token Acc: 41.39%
+    ✅ Saved checkpoint: checkpoints/blt_epoch332.pt
+
+    {"model_id":"45c2dcb468ad4014aae9e5825d480921","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 333/1000 - Train Loss: 2.0548
+
+    {"model_id":"88e0da611ac24c059fbadab368d87557","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8812, Perplexity: 6.56, Token Acc: 41.42%
+
+    {"model_id":"2e98a82c53ec4bab9fdf0bfafc8c59bf","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 334/1000 - Train Loss: 2.0543
+
+    {"model_id":"9a7d11a1664c4c7b8c6bfb05074cdcdb","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8813, Perplexity: 6.56, Token Acc: 41.40%
+    ✅ Saved checkpoint: checkpoints/blt_epoch334.pt
+
+    {"model_id":"0426c6598a704c468fd92428c0d1d017","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 335/1000 - Train Loss: 2.0537
+
+    {"model_id":"d8688954123a44d496bea6da7cbfc390","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8812, Perplexity: 6.56, Token Acc: 41.43%
+
+    {"model_id":"5f7ee96a3bf74820b91923f9aa782add","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 336/1000 - Train Loss: 2.0538
+
+    {"model_id":"701b38415018496a9d8b86971b619754","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8811, Perplexity: 6.56, Token Acc: 41.41%
+    ✅ Saved checkpoint: checkpoints/blt_epoch336.pt
+
+    {"model_id":"9674950e90d740ab9cee780585d87275","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 337/1000 - Train Loss: 2.0545
+
+    {"model_id":"52e1ce6ff44c49e896d1322d247201f6","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8810, Perplexity: 6.56, Token Acc: 41.44%
+
+    {"model_id":"9885403118c0434cadbe1f0add175696","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 338/1000 - Train Loss: 2.0543
+
+    {"model_id":"7e5a07f3b09a4805b1838a2637a09141","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8811, Perplexity: 6.56, Token Acc: 41.44%
+    ✅ Saved checkpoint: checkpoints/blt_epoch338.pt
+
+    {"model_id":"a8323b3f29f44e0f8c90819ad4d7112d","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 339/1000 - Train Loss: 2.0539
+
+    {"model_id":"c5da839ed0d640918aefd28cdbd9d9db","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8810, Perplexity: 6.56, Token Acc: 41.42%
+
+    {"model_id":"c9ccae19f69f4996980b4fdf0f42be28","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 340/1000 - Train Loss: 2.0544
+
+    {"model_id":"e9c67cb302e74858a46e7fe77e81ee92","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8810, Perplexity: 6.56, Token Acc: 41.43%
+    ✅ Saved checkpoint: checkpoints/blt_epoch340.pt
+
+    {"model_id":"3dec37e360624182a923aaba262034d1","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 341/1000 - Train Loss: 2.0542
+
+    {"model_id":"a1cf900653664c109f6a36c77c760519","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8812, Perplexity: 6.56, Token Acc: 41.40%
+
+    {"model_id":"7c65c7ea96e04cbeb81659efff727d14","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 342/1000 - Train Loss: 2.0540
+
+    {"model_id":"4f6bbfd655ac4c6cbaafc8e033f88910","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8811, Perplexity: 6.56, Token Acc: 41.41%
+    ✅ Saved checkpoint: checkpoints/blt_epoch342.pt
+
+    {"model_id":"078e0708cc9d471fb5b89635a84fef56","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 343/1000 - Train Loss: 2.0538
+
+    {"model_id":"00d212d632e348f0b8f62bd9472cbc6b","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8811, Perplexity: 6.56, Token Acc: 41.41%
+
+    {"model_id":"e39b9ffd88194a938ca58d9631be38c9","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 344/1000 - Train Loss: 2.0545
+
+    {"model_id":"a2564beda88645d68d5262647ef1e6f8","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8811, Perplexity: 6.56, Token Acc: 41.42%
+    ✅ Saved checkpoint: checkpoints/blt_epoch344.pt
+
+    {"model_id":"a2be4790261946a7a726bac1a6894425","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 345/1000 - Train Loss: 2.0526
+
+    {"model_id":"39c5e1a5e46b4bdf8d01f52feadbce88","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8811, Perplexity: 6.56, Token Acc: 41.43%
+
+    {"model_id":"3b72abe4b0b24e9a969a0b00b39014d8","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 346/1000 - Train Loss: 2.0542
+
+    {"model_id":"953c37c4ad434c368880ede3859f3b23","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8812, Perplexity: 6.56, Token Acc: 41.39%
+    ✅ Saved checkpoint: checkpoints/blt_epoch346.pt
+
+    {"model_id":"2c512dfab9514f53a394f0efa5fd9c92","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 347/1000 - Train Loss: 2.0539
+
+    {"model_id":"e852556bd37346d191426b485ff53fcb","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8811, Perplexity: 6.56, Token Acc: 41.39%
+
+    {"model_id":"8ca3e5dbe88742cf9db1a0f082855458","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 348/1000 - Train Loss: 2.0532
+
+    {"model_id":"8842e04b90c447869ca832ed338fb01b","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8811, Perplexity: 6.56, Token Acc: 41.39%
+    ✅ Saved checkpoint: checkpoints/blt_epoch348.pt
+
+    {"model_id":"1fda3e4b4a0e423e955a45684e38b9c3","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 349/1000 - Train Loss: 2.0535
+
+    {"model_id":"59924c65112d4a91b41f4c2eb4c14056","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8811, Perplexity: 6.56, Token Acc: 41.39%
+
+    {"model_id":"4329e7e749dd42968f9accc612c07925","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 350/1000 - Train Loss: 2.0538
+
+    {"model_id":"600027d3306840a28eace9365d893fd1","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8811, Perplexity: 6.56, Token Acc: 41.38%
+    ✅ Saved checkpoint: checkpoints/blt_epoch350.pt
+
+    {"model_id":"0655b50bd61047be80d941b790e79b7e","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 351/1000 - Train Loss: 2.0550
+
+    {"model_id":"b2cfe3f29ebd481a83740764acd70914","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8811, Perplexity: 6.56, Token Acc: 41.38%
+
+    {"model_id":"2f01aefbde2145b5972774d7aa3b6c11","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 352/1000 - Train Loss: 2.0531
+
+    {"model_id":"25cc3fad3e9b4c23876d96bec42d21e0","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8811, Perplexity: 6.56, Token Acc: 41.37%
+    ✅ Saved checkpoint: checkpoints/blt_epoch352.pt
+
+    {"model_id":"bf714d130bfb4c21b70a39c3a2b302ff","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 353/1000 - Train Loss: 2.0535
+
+    {"model_id":"d091bc64f132413a88c47c1b4b164ee6","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8811, Perplexity: 6.56, Token Acc: 41.37%
+
+    {"model_id":"1ab82e341cf341fdb059d047a3900eb6","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 354/1000 - Train Loss: 2.0540
+
+    {"model_id":"e56f8b13e7404c0eafae1adab30489f0","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8811, Perplexity: 6.56, Token Acc: 41.39%
+    ✅ Saved checkpoint: checkpoints/blt_epoch354.pt
+
+    {"model_id":"f1175be4b22d4d84b68bda1b2bb846e4","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 355/1000 - Train Loss: 2.0535
+
+    {"model_id":"cedb7b90e2424d6e81a6899e523b31e9","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8811, Perplexity: 6.56, Token Acc: 41.40%
+
+    {"model_id":"9b3145c5be13460f9ef528f30a9dee81","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 356/1000 - Train Loss: 2.0536
+
+    {"model_id":"9758791255834599a3a78cbda4456bbe","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8811, Perplexity: 6.56, Token Acc: 41.39%
+    ✅ Saved checkpoint: checkpoints/blt_epoch356.pt
+
+    {"model_id":"87d77967ffb24856889b9611c52be683","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 357/1000 - Train Loss: 2.0540
+
+    {"model_id":"8eeacf62898e49aea833676ae0994205","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8811, Perplexity: 6.56, Token Acc: 41.37%
+
+    {"model_id":"dccc698a53fd4b8cbbce77afe13d002e","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 358/1000 - Train Loss: 2.0540
+
+    {"model_id":"86384edbeac245ae9f375ee836a41383","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8811, Perplexity: 6.56, Token Acc: 41.39%
+    ✅ Saved checkpoint: checkpoints/blt_epoch358.pt
+
+    {"model_id":"be27c259cb524677ab0fd5a7190733f4","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 359/1000 - Train Loss: 2.0539
+
+    {"model_id":"429a1b141bc241b49bfc950e2039e94c","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8811, Perplexity: 6.56, Token Acc: 41.37%
+
+    {"model_id":"58a4b70eaea945bb944e596a3d0715f9","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 360/1000 - Train Loss: 2.0539
+
+    {"model_id":"28b41ff5592b4f24a3964ad0c1ad341c","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8811, Perplexity: 6.56, Token Acc: 41.37%
+    ✅ Saved checkpoint: checkpoints/blt_epoch360.pt
+
+    {"model_id":"49f1d5c643bd48a5997a4da3fc22ba2a","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 361/1000 - Train Loss: 2.0533
+
+    {"model_id":"846deb8ca16c46aa8fae5248cb7e8156","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8811, Perplexity: 6.56, Token Acc: 41.37%
+
+    {"model_id":"ccd3426c05a544aeae814f4d0c8ab443","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 362/1000 - Train Loss: 2.0540
+
+    {"model_id":"5b5d90f73f664d318977584c38339e75","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8811, Perplexity: 6.56, Token Acc: 41.37%
+    ✅ Saved checkpoint: checkpoints/blt_epoch362.pt
+
+    {"model_id":"d45256223c9846b79bacf71ce5bc9274","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 363/1000 - Train Loss: 2.0547
+
+    {"model_id":"d5fd53e71b744321a8347868e4681bef","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8811, Perplexity: 6.56, Token Acc: 41.38%
+
+    {"model_id":"d3f65ba9629441c98b3f37b97d7213b7","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 364/1000 - Train Loss: 2.0553
+
+    {"model_id":"ca3e4c97a2784761bd450ba45c36f45b","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8811, Perplexity: 6.56, Token Acc: 41.38%
+    ✅ Saved checkpoint: checkpoints/blt_epoch364.pt
+
+    {"model_id":"0dc1587fcb6c4f71a4baab076622fe03","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 365/1000 - Train Loss: 2.0542
+
+    {"model_id":"ab172a4e5a154b0aa0678e5e468c5c40","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8811, Perplexity: 6.56, Token Acc: 41.37%
+
+    {"model_id":"2e777b4104e64ea8b42f97b933d21cd2","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 366/1000 - Train Loss: 2.0537
+
+    {"model_id":"fdd31d4e67404d4fb32a4abcc0b5cd18","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8811, Perplexity: 6.56, Token Acc: 41.36%
+    ✅ Saved checkpoint: checkpoints/blt_epoch366.pt
+
+    {"model_id":"81f1e9feb851495494e6edfba42f4c4c","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 367/1000 - Train Loss: 2.0537
+
+    {"model_id":"438d2c6d133847bca624af5504cf48bf","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8811, Perplexity: 6.56, Token Acc: 41.37%
+
+    {"model_id":"49664ff030944a3bbb45bcf0d9baaad9","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 368/1000 - Train Loss: 2.0535
+
+    {"model_id":"b6bcaa09cede4cb0bac74189fc4d7a85","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8811, Perplexity: 6.56, Token Acc: 41.37%
+    ✅ Saved checkpoint: checkpoints/blt_epoch368.pt
+
+    {"model_id":"22e4e7c5e620491bb37fa869fb880a90","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 369/1000 - Train Loss: 2.0528
+
+    {"model_id":"94dd1b78642845b3ba95f6a8e59e6c4e","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8811, Perplexity: 6.56, Token Acc: 41.37%
+
+    {"model_id":"145b79e2073242a4859986534f61eaa7","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 370/1000 - Train Loss: 2.0527
+
+    {"model_id":"5bec558cd7de425eb379a9e6d28890f3","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8811, Perplexity: 6.56, Token Acc: 41.37%
+    ✅ Saved checkpoint: checkpoints/blt_epoch370.pt
+
+    {"model_id":"afe3e69735004d548d6308cd8ee3b959","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 371/1000 - Train Loss: 2.0531
+
+    {"model_id":"789cf7501c7d4d5b8a08dfa0ea10c98b","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8811, Perplexity: 6.56, Token Acc: 41.36%
+
+    {"model_id":"ddd119dd3c124de188e15bc688bdd353","version_major":2,"version_minor":0}
+
+
+    📘 Epoch 372/1000 - Train Loss: 2.0529
+
+    {"model_id":"faccc2b7d9de40f680240840e2fedf86","version_major":2,"version_minor":0}
+
+    📗 Validation - Loss: 1.8811, Perplexity: 6.56, Token Acc: 41.36%
+    ✅ Saved checkpoint: checkpoints/blt_epoch372.pt
+
+    {"model_id":"dbaf1055b4ea4a508ae2ac46fcfccd14","version_major":2,"version_minor":0}
