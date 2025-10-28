@@ -92,4 +92,4 @@ The standard character-level Transformer baseline significantly outperformed the
 
 ## Links to Saved Models
 
-* [Final BLT Model (blt_epoch372.pt) & Baseline Model (char_transformer_epoch500.pt)](https://drive.google.com/drive/folders/1BIsIaQ5GCVY-t-xp34LIR9IR8gN2eVGx?usp=share_link)
+* [Final BLT Model (blt_epoch372.pt) & Baseline Model (char_transformer_epoch500.pt)](https://drive.google.com/drive/folders/1BIsIaQ5GCVY-t-xp34LlR9IR8gN2eVGx?usp=share_link)
