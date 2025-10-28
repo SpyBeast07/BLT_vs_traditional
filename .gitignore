@@ -16,5 +16,5 @@ src/checkpoints/*
 src/checkpoints_baseline/*
 
 # Exception: Keep this specific pre-trained model
-!src/checkpoints/blt_epoch168.pt
+!src/checkpoints/blt_epoch372.pt
 !src/checkpoints_baseline/char_transformer_epoch500.pt
