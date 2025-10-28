@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/-JGnMZcd)
-
-# LMA Assignment 1: BLT vs. Traditional Transformer for String Reversal
+# Comparing BLT vs. Traditional Transformer for String Reversal
 
 This repository contains the code and results for Assignment 1 of the CL3410: Language Models and Agents course at IIIT Hyderabad (October 2025). The project implements and evaluates a simplified Byte-Latent Transformer (BLT) against a standard character-level Transformer baseline on a string reversal task.
 
@@ -94,6 +91,4 @@ The standard character-level Transformer baseline significantly outperformed the
 ## Links to Saved Models
 
 * [Final BLT Model (blt_epoch372.pt) & Baseline Model (char_transformer_epoch500.pt)](https://drive.google.com/drive/folders/1BIsIaQ5GCVY-t-xp34LlR9IR8gN2eVGx?usp=share_link)
-=======
-# Comparison of BLT and traditional language models
->>>>>>> c1ccc8e3419992dcb4235f4691fac236ac104211
+
