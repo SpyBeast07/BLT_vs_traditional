@@ -84,6 +84,10 @@ The core implementation and experiments are contained within the `main.txt` (con
 
 *(See `Report.pdf` for full details)*
 
+## Architecture Diagram
+
+![Architecture Diagram](images/archDiagram.png)
+
 ## Conclusion
 
 The standard character-level Transformer baseline significantly outperformed the implemented BLT model on the string reversal task. While the BLT successfully reduced sequence length through patching, its accuracy plateaued at a low level. The pre-processing overhead and convergence difficulties suggest that, for this specific task and implementation, the BLT approach was less effective than the simpler baseline. Potential reasons include insufficient model capacity (`d_model=64`) or loss of positional information during patching/embedding.
